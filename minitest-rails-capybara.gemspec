@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |s|
   s.name = "minitest-rails-capybara".freeze
-  s.version = "3.0.0.rc1.20160507184752"
+  s.version = "3.0.0.rc1"
 
   s.required_rubygems_version = Gem::Requirement.new("> 1.3.1".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
